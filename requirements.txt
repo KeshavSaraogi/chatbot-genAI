@@ -3,7 +3,10 @@ ipykernel
 langchain
 langchain_groq
 langchain_core
+langchain-chroma
 langchain_community
+langchain_huggingface
 transformers
 ipywidgets
 tensorflow
+tf-keras
