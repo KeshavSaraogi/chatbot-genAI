@@ -10,3 +10,5 @@ transformers
 ipywidgets
 tensorflow
 tf-keras
+bs4
+langchain_openai
